@@ -1,5 +1,7 @@
 # Database Administrator Project
 
+The code in this repository is part of my work I did at Dalhousie as a database administrator under ISWEP program
+
 ### Steps to run the project
 
 **The following steps assume that MySQL, python and pip are already installed in the machine and environment variables for their executables are set**
